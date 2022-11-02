@@ -8,4 +8,4 @@ This project follows the brief <a href="https://www.hackingwithswift.com/guide/i
 
 Please see the below video of the app run on an iPhone 14 Pro simulator.
 
-https://user-images.githubusercontent.com/91225947/199583161-9352a583-993d-4183-a0a3-cdefe8afb080.mov
+https://user-images.githubusercontent.com/91225947/199584213-8d2b901c-ae58-42a3-ac96-7ee14766149e.mov
