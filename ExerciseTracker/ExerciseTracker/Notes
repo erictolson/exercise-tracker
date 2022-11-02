@@ -1,0 +1,7 @@
+
+Things to add
+- validation that data fields are not empty on input
+- strain levels
+- indicator that strain average is too high or too low on main page
+- detail view to see notes/edit entry
+- strain = intensity X duration (computed property in struct?)
