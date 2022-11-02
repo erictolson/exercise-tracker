@@ -8,5 +8,4 @@ This project follows the brief <a href="https://www.hackingwithswift.com/guide/i
 
 Please see the below video of the app run on an iPhone 14 Pro simulator.
 
-https://user-images.githubusercontent.com/91225947/199580059-473a7d73-a716-4766-8d74-c0076ddbb143.mov
-
+Uploading ExerciseTracker.mov…
